@@ -1,0 +1,48 @@
+_repo: I-Viaggi-di-Marco-Polomagliabeccano-e-sulle-opere-di-Charton_44714
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Colombo, Ezio
+    gutenberg_agent_id: '42884'
+    url: http://www.gutenberg.org/2009/agents/42884
+covers:
+- cover_type: archival
+  image_path: 44714-h/images/covermp.jpg
+creator:
+  authors:
+  - agent_name: Verne, Jules
+    aliases:
+    - Verne, Júlio
+    - Verne, Jules Gabriel
+    - Verne, Jules Gabriël
+    birthdate: 1828
+    deathdate: 1905
+    gutenberg_agent_id: '60'
+    url: http://www.gutenberg.org/2009/agents/60
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Jules_Verne
+    - http://en.wikipedia.org/wiki/Jules_Verne
+    - http://pt.wikipedia.org/wiki/Júlio_Verne
+  - agent_name: Polo, Marco
+    birthdate: 1254
+    gutenberg_agent_id: '3613'
+    url: http://www.gutenberg.org/2009/agents/3613
+    wikipedia: http://en.wikipedia.org/wiki/Marco_Polo
+description: ''
+gutenberg_bookshelf: IT Viaggi
+gutenberg_issued: '2014-01-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44714'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Asia -- Description and travel'
+- !lcsh 'Voyages and travels'
+- !lcsh 'Mongols -- History'
+- !lcc 'G'
+title: "I Viaggi di Marco Polo\r\nUnica versione originale fedelmente riscontrata\
+  \ sul codice magliabeccano e sulle opere di Charton"
+url: http://www.gutenberg.org/ebooks/44714
