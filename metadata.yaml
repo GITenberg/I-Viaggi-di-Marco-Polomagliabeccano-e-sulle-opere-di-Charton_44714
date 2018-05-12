@@ -29,6 +29,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3613
     wikipedia: http://en.wikipedia.org/wiki/Marco_Polo
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44714#I-Viaggi-di-Marco-Polomagliabeccano-e-sulle-opere-di-Charton
 gutenberg_bookshelf: IT Viaggi
 gutenberg_issued: '2014-01-19'
 gutenberg_type: Text
